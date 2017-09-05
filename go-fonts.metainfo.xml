@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Vincent Batts <vbatts AT redhat DOT com> -->
+<component type="font">
+  <id>go-fonts</id>
+  <metadata_license>CC-BY-3.0</metadata_license>
+  <name>go-fonts</name>
+  <summary>golang fonts</summary>
+  <description>
+    <p>
+	    Produced specifically for the Go Project by Bigelow and Holmes type foundry.
+    </p>
+  </description>
+  <updatecontact>vbatts_at_redhat_dot_com</updatecontact>
+  <url type="homepage">https://blog.golang.org/go-fonts</url>
+</component>
+
